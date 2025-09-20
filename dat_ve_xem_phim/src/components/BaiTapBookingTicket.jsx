@@ -77,7 +77,7 @@ const BaiTapBookingTicket = () => {
             {/* Màn hình */}
             <div className="text-center mb-4">
               <div className="screen mx-auto">
-                <span>Màn hình</span>
+                <span>Màn Hình</span>
               </div>
             </div>
 
